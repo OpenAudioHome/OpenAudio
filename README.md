@@ -25,8 +25,8 @@ OpenAudio is your **open-source companion** for high-quality **multi-room audio 
 
 ## 💌 Connect with Us
 
-- Contact: [contact@openaudio.com](mailto:contact@openaudio.com)  
-- Website: [https://www.openaudio.com](https://www.openaudio.com)  
+- Contact: [contact@openaudio.com](mailto:contact@openaudiohome.com)  
+- Website: [https://www.openaudio.com](https://www.openaudiohome.com)  
 
 ---
 
